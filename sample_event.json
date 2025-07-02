@@ -1,0 +1,9 @@
+{
+  "event_name": "pull_request",
+  "action": "labeled",
+  "title": "Slack notifications test",
+  "title_link": "https://github.com/ibrahimAlphaSquad/playwright/pull/76",
+  "thread_key": "ibrahimAlphaSquad/playwright-pr-76",
+  "number": "76",
+  "message": "GitHub Event: pull_request, Action: labeled"
+}
